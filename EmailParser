@@ -1,0 +1,8 @@
+public class EmailParser
+{
+  public static void main(String[] args)
+    {
+        
+
+    }
+}
